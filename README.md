@@ -1,4 +1,8 @@
-### Hi there 👋
+### Salutations! 👋
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doublealogic&layout=compact)](https://github.com/doublealogic/github-readme-stats)
+
+
 
 <!--
 **doublealogic/doublealogic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
